@@ -8,6 +8,9 @@ This repository provides the implementation of **ADCNET**, an attention-based de
 
 **URL**: [https://github.com/Aaru5246/ADCNET.git](https://github.com/Aaru5246/ADCNET.git)
 
+**DOI**: [https://doi.org/10.5281/zenodo.15857292](https://doi.org/10.5281/zenodo.15857292)
+
+
 ## 🚀 Features
 
 - Attention Convolution Blocks (ACBs) for enhanced feature representation.
